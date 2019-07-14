@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: harithagonuguntla
+Build-Jdk: 12.0.1
+Implementation-Title: Bookstore
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.bookstore
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/bookstore/
+Created-By: Maven Integration for Eclipse
+
